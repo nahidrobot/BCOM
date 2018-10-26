@@ -5,6 +5,13 @@ Automated Shell Script Install WiFi Driver ( Broadcom ) in Kali Linux 2018.3 Mad
 
 Download BCOM Installer : https://github.com/nahidrobot/BCOM.git
 
-usage : cd Desktop git clone https://github.com/nahidrobot/BCOM.git cd BCOM chmod +x ./BCOM.sh ./BCOM.sh
-
-Install Wifi Driver Show Commands Quit Please enter your choice: If you have any questions & inquiries Ask me on Comment or Contact Facebook Page : https://www.facebook.com/nahidhasantechnology/ Facebook : https://www.facebook.com/nahidhassan.nibir DON'T FORGET TO SUBSCRIBE!!! YouTube : www.youtube.com/nahidhasantechnology Thank You!!!
+usage : cd Desktop git clone https://github.com/nahidrobot/BCOM.git 
+cd BCOM chmod +x ./BCOM.sh 
+./BCOM.sh
+1.Install Wifi Driver
+2.Show Commands
+3.Quit Please enter your choice:
+Install Wifi Driver Show Commands Quit Please enter your choice: If you have any questions & inquiries Ask me on Comment or Contact Facebook Page : https://www.facebook.com/nahidhasantechnology/ 
+Facebook : https://www.facebook.com/nahidhassan.nibir 
+DON'T FORGET TO SUBSCRIBE!!! YouTube : www.youtube.com/nahidhasantechnology 
+Thank You!!!
